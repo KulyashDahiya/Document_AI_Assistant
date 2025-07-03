@@ -60,7 +60,6 @@ Document AI Assistant/
 ├── frontend/
 │   └── streamlit_app.py # Streamlit frontend
 ├── requirements.txt     # Python dependencies
-├── 10mb_file.pdf        # Example document
 ├── company_policies.pdf # Example document
 └── ...
 ```
